@@ -256,17 +256,17 @@ JPEG image format.
 - ​By comparing app performance to other measuring devices it was detected that there is an average error of 2.6 degrees.
 
 <p align="center">
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/test1.png" width="100%" height="100%" />
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/test1.png" width="80%" height="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/err.png" width="100%" height="100%" />
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/err.png" width="80%" height="80%" />
 </p>
 
 - ​Calibrate the system using linear regression reduce the average error to 0.5 degrees.
 
 <p align="center">
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/lin.png" width="100%" height="100%" />
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/lin.png" width="80%" height="80%" />
 </p>
 
 
