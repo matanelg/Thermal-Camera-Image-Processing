@@ -10,8 +10,13 @@ Therefore, there is a need to develop a control and diagnostic system that will 
   <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/acc.png">
 </p>
 
-
 ## Project's Softwares
+
+<p align="center">
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/matlab_resize_md.jpg">
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/labv.png">
+</p>
+
 
 ## Heat And Electromagnetic Radiation
 
