@@ -12,13 +12,19 @@ Therefore, there is a need to develop a control and diagnostic system that will 
 
 ## Project's Softwares
 
-<p float="left">
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/matlab_resize_md.jpg" width="30%"/>
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/labv.png" />
+<p float="center">
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/labv.png" width="50%" height="70%" />
 </p>
 
-
 ## Heat And Electromagnetic Radiation
+
+- With the IR sensor in the thermal camera, the accelerator temperature can be estimated based on the electromagnetic radiation emitted by it.
+- The temperature translation is made possible by detecting the wavelength at the maximum intensity of the radiation emitted by Planck's law.​​
+- Planck Law - describes the relationship between the intensity of radiation and the wavelength emittedby the accelerator in certain temperature.
+
+<p float="center">
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/ew.png" width="100%" height="100%" />
+</p>
 
 ## FLIR-Ax8 Thermal camera
 
