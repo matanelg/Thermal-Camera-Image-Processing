@@ -14,7 +14,7 @@ Therefore, there is a need to develop a control and diagnostic system that will 
 
 <p float="left">
   <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/matlab_resize_md.jpg" width="30%"/>
-  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/labv.png" width="30%" />
+  <img src="https://github.com/matanelg/Thermal-Camera-Image-Processing/blob/master/images/labv.png" width="30%" height="70%" />
 </p>
 
 
