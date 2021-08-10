@@ -1,0 +1,11 @@
+Date,Time,User/System,Temperature ( C ),Max (Scale),Min (Scale),File
+21/08/2019,11:56,User,36,60,15,project test.csv
+21/08/2019,12:00,User,34,60,15,project test.csv
+21/08/2019,12:05,User,32,60,15,project test.csv
+21/08/2019,12:06,User,53,60,15,project test.csv
+21/08/2019,12:08,User,60,60,15,project test.csv
+21/08/2019,12:10,User,31,60,15,project test.csv
+21/08/2019,12:11,User,53,60,15,project test.csv
+21/08/2019,12:15,User,30,60,15,project test.csv
+21/08/2019,12:18,User,27,60,15,project test.csv
+21/08/2019,12:29,User,53,60,15,project test.csv
